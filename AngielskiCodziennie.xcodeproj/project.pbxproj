@@ -52,8 +52,12 @@
 		3B9FEC87263EFD7500A150D0 /* AngielskiCodziennie */ = {
 			isa = PBXGroup;
 			children = (
+				3B9FEC97263EFDE300A150D0 /* Views */,
+				3B9FEC98263EFDEC00A150D0 /* ViewModels */,
+				3B9FEC99263EFDF400A150D0 /* Models */,
+				3B9FEC9A263EFDFB00A150D0 /* Helpers */,
+				3B9FEC9C263EFE1B00A150D0 /* Resources */,
 				3B9FEC88263EFD7500A150D0 /* AngielskiCodziennieApp.swift */,
-				3B9FEC8A263EFD7500A150D0 /* ContentView.swift */,
 				3B9FEC8C263EFD7600A150D0 /* Assets.xcassets */,
 				3B9FEC91263EFD7600A150D0 /* Info.plist */,
 				3B9FEC8E263EFD7600A150D0 /* Preview Content */,
@@ -67,6 +71,42 @@
 				3B9FEC8F263EFD7600A150D0 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3B9FEC97263EFDE300A150D0 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3B9FEC8A263EFD7500A150D0 /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		3B9FEC98263EFDEC00A150D0 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		3B9FEC99263EFDF400A150D0 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		3B9FEC9A263EFDFB00A150D0 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		3B9FEC9C263EFE1B00A150D0 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
